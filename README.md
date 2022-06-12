@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Zubaer Hossain</h1>
-<h3 align="center">A passionate programmer from North Western University ,Khulna</h3>
+<h3 align="center">A passionate Software Developer from North Western University ,Khulna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubaerjewel&label=Profile%20views&color=0e75b6&style=flat" alt="zubaerjewel" /> </p>
 
