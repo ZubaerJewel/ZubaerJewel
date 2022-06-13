@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Zubaer Hossain</h1>
-<h4 align="center"> A passionate self-taught full stack web developer from North Western University ,Khulna. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<h3 align="center">Hi 👋, <br>I'm Md. Zubaer Hossain,</h3>
+<h4 align="center">A passionate self-taught full stack web developer from North Western University ,Khulna. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </h4><h5>
 I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h5>
 <ul>
