@@ -2,9 +2,11 @@
 <h4 align="center"> A passionate self-taught full stack web developer from North Western University ,Khulna. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </h4><h3>
 I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-	A self-driven attitude and  willingness to learn.
-	Optimistic, confident and benevolent.
-	Energetic, Sincere and hard working.
+<ul>
+  <li>A self-driven attitude and  willingness to learn.</li>
+  <li>Optimistic, confident and benevolent.</li>
+  <li>Energetic, Sincere and hard working.</li>
+<ul>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubaerjewel&label=Profile%20views&color=0e75b6&style=flat" alt="zubaerjewel" /> </p>
